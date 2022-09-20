@@ -1,3 +1,4 @@
+# a function that takes in an integer to determine whether it is a prime number or not
 def isprime(n):
     if n == 1:
         return False
